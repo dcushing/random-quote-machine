@@ -1,0 +1,37 @@
+/* fonts courtesy Google Fonts */
+@import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+
+body {
+  text-align:center;
+}
+h1 {
+  font-family:"Fredericka the Great", serif;
+  font-size:3.5em;
+}
+h2 {
+  font-family:"Amatic SC", sans-serif;
+  font-size:3em;
+}
+h3 {
+  font-family:"Amatic SC", sans-serif;
+  font-size:2.5em;
+}
+h4 {
+  font-family:"Amatic SC", sans-serif;
+  font-size:2em;
+}
+button {
+  font-family:"Amatic SC", sans-serif;
+  font-size:3em;
+}
+#quote {
+  border: 1px dashed black;
+  max-width:40%;
+  margin-left:30%;
+  margin-top:15px;
+  padding-bottom:10px;
+}
+.hide-quote {
+  display:none;
+}
